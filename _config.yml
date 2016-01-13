@@ -1,0 +1,28 @@
+name: StartupYnot
+favicon: null
+layout_spectrum: 0.3022643078584224
+typography_spectrum: 0.2308694168459624
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6891769028734416
+  lightness: 0.14366258680820465
+  saturation: 0.3187407171353698
+  rhythmicContrast: 0.11270007654093206
+purpose: []
