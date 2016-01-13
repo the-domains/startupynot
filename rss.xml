@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[StartuP YnoT]]></title>
         <description><![CDATA[StartuP YnoT]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://startupynot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 22:46:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 22:50:00 GMT</lastBuildDate>
+        <atom:link href="http://startupynot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Entrepreneurs Can Ride the Internet of Things to Success]]></title>
+            <description><![CDATA[<article><h1>How Entrepreneurs Can Ride the Internet of Things to Success</h1><p>Today, more people live in cities than in rural areas. This is of course a change from the 1800s and even the early part of the 20th century, when more people lived in the country. There are no signs of a slow-down in urbanization; in fact it's only speeding up.</p><img src="http://images.inc.com/uploaded_files/image/970x450/getty_481880979_74878.jpg"></article>]]></description>
+            <link>http://www.inc.com/john-boitnott/how-entrepreneurs-can-ride-the-internet-of-things-to-success.html</link>
+            <guid isPermaLink="false">eace5df7-06fe-4fdd-919c-b5091cb4036c</guid>
+            <pubDate>Wed, 13 Jan 2016 22:49:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 100 Best Quotes From 100 Brilliant Thinkers]]></title>
-            <description><![CDATA[<article><h1>The 100 Best Quotes From 100 Brilliant Thinkers</h1><p>The best quotes from the best brains in business, past and present.</p><img src="http://images.inc.com/uploaded_files/image/970x450/MontageTitle_72827.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The 100 Best Quotes From 100 Brilliant Thinkers</h1><p>The best quotes from the best brains in business, past and present.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a75bf8637c358b4de6db585f34653a6d6e332458.png"></article>]]></description>
             <link>http://www.inc.com/geoffrey-james/100-brilliant-business-mindsand-what-they-said.html?cid=readmoress</link>
             <guid isPermaLink="false">a1d880fd-aadc-4fb0-bf13-267ba600612e</guid>
             <pubDate>Wed, 13 Jan 2016 22:46:27 GMT</pubDate>
