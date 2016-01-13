@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[StartuP YnoT]]></title>
+        <description><![CDATA[StartuP YnoT]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 22:46:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The 100 Best Quotes From 100 Brilliant Thinkers]]></title>
+            <description><![CDATA[<article><h1>The 100 Best Quotes From 100 Brilliant Thinkers</h1><p>The best quotes from the best brains in business, past and present.</p><img src="http://images.inc.com/uploaded_files/image/970x450/MontageTitle_72827.png"></article>]]></description>
+            <link>http://www.inc.com/geoffrey-james/100-brilliant-business-mindsand-what-they-said.html?cid=readmoress</link>
+            <guid isPermaLink="false">a1d880fd-aadc-4fb0-bf13-267ba600612e</guid>
+            <pubDate>Wed, 13 Jan 2016 22:46:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
