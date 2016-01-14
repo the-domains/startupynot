@@ -4,8 +4,15 @@
         <description><![CDATA[StartUpYNoT - LeTz  gEt sTartEd]]></description>
         <link>http://startupynot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 13:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jan 2016 13:49:04 GMT</lastBuildDate>
         <atom:link href="http://startupynot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[APIs for humans: The rise of developer experience (DX)]]></title>
+            <description><![CDATA[<article><h1>APIs for humans: The rise of developer experience (DX)</h1><p>User Experience (UX) is a top priority for many consumer-facing software companies. The art of simplifying complex interactions into meaningful user experiences is an important competitive advantage for technology companies. But what if your product is an API and your end-users are developers? How do you design a good experience for them?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bffea319480154bfd3ce03e28b13b8d10496dd4.png"></article>]]></description>
+            <link>http://thenextweb.com/dd/2015/12/20/apis-for-humans-the-rise-of-developer-experience-dx/</link>
+            <guid isPermaLink="false">ee6078e9-2207-414e-8e12-38a351554582</guid>
+            <pubDate>Thu, 14 Jan 2016 13:48:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The 100 Best Quotes From 100 Brilliant Thinkers]]></title>
             <description><![CDATA[<article><h1>The 100 Best Quotes From 100 Brilliant Thinkers</h1><p>The best quotes from the best brains in business, past and present.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92314e3e09e4a422af433de82abfaff7d980ea22.png"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>http://time.com/money/4175125/negotiate-price-groceries-electronics-interest-rates/?xid=frommoney_soc_socialflow_facebook_money</link>
             <guid isPermaLink="false">f7c0de81-225b-4320-bfb0-852adbbdd400</guid>
             <pubDate>Wed, 13 Jan 2016 23:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[APIs for humans: The rise of developer experience (DX)]]></title>
-            <description><![CDATA[<article><h1>APIs for humans: The rise of developer experience (DX)</h1><p>User Experience (UX) is a top priority for many consumer-facing software companies. The art of simplifying complex interactions into meaningful user experiences is an important competitive advantage for technology companies. But what if your product is an API and your end-users are developers? How do you design a good experience for them?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bffea319480154bfd3ce03e28b13b8d10496dd4.png"></article>]]></description>
-            <link>http://thenextweb.com/dd/2015/12/20/apis-for-humans-the-rise-of-developer-experience-dx/</link>
-            <guid isPermaLink="false">ee6078e9-2207-414e-8e12-38a351554582</guid>
-            <pubDate>Wed, 13 Jan 2016 22:55:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Entrepreneurs Can Ride the Internet of Things to Success]]></title>
