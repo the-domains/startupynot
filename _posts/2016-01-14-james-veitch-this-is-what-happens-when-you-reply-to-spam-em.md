@@ -40,10 +40,10 @@ related:
     thumbnail_url: 'http://tedcdnpe-a.akamaihd.net/images/ted/99da7b24202e70ffebb79d5c849556847c805d18_240x180.jpg?lang=en'
     thumbnail_width: 240
 publisher:
-  url: 'http://ted.com'
   name: TED
-  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
   domain: www.ted.com
+  url: 'http://ted.com'
+  favicon: 'https://tedcdnpa-a.akamaihd.net/favicon.ico'
 keywords:
   - diamond-encrusted
   - veitch
@@ -68,13 +68,15 @@ app_links:
     package: com.ted.android
 isBasedOnUrl: 'https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email#'
 title: 'James Veitch: This is what happens when you reply to spam email'
-datePublished: '2016-01-14T13:24:37.788Z'
-dateModified: '2016-01-14T13:24:07.461Z'
+datePublished: '2016-01-14T13:35:40.774Z'
+dateModified: '2016-01-14T13:35:27.540Z'
 sourcePath: _posts/2016-01-14-james-veitch-this-is-what-happens-when-you-reply-to-spam-em.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
