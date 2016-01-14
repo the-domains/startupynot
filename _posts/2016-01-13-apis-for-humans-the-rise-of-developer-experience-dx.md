@@ -22,14 +22,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://thenextweb.com/dd/2015/12/20/apis-for-humans-the-rise-of-developer-experience-dx/'
 title: 'APIs for humans: The rise of developer experience (DX)'
-datePublished: '2016-01-14T13:48:22.847Z'
-dateModified: '2016-01-14T13:48:16.128Z'
+datePublished: '2016-01-14T13:51:24.705Z'
+dateModified: '2016-01-14T13:51:20.117Z'
 sourcePath: _posts/2016-01-13-apis-for-humans-the-rise-of-developer-experience-dx.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
