@@ -68,14 +68,14 @@ app_links:
     package: com.ted.android
 isBasedOnUrl: 'https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email#'
 title: 'James Veitch: This is what happens when you reply to spam email'
-datePublished: '2016-01-14T13:35:40.774Z'
-dateModified: '2016-01-14T13:35:27.540Z'
+datePublished: '2016-01-14T13:38:52.002Z'
+dateModified: '2016-01-14T13:38:43.928Z'
 sourcePath: _posts/2016-01-14-james-veitch-this-is-what-happens-when-you-reply-to-spam-em.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
