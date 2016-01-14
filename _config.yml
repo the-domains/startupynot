@@ -1,8 +1,8 @@
 name: StartupYnot
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
-title: "StartuPYnoT - LeT's  gEt sTartEd"
+layout_spectrum: 0.87997
+typography_spectrum: 0.78249
+title: StartuPYnoT
 cta:
   domain: null
   bucket: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020202'
-    - '#1b1b1d'
-    - '#343537'
-    - '#8c8c8c'
-    - '#636466'
-  brandStrength: 0.5625
-  lightness: 0.375
-  saturation: 0.25
-  rhythmicContrast: 0.25
+    - '#090909'
+    - '#a1a1a1'
+    - '#616161'
+    - '#c7c7c7'
+    - '#eaeaea'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.3187407171353698
+  rhythmicContrast: 0
 purpose: []
