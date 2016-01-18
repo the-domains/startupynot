@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://watson.acehacker.com'
   name: Acehacker
-  favicon: 'http://watson.acehacker.com/img/favicon2.ico'
   domain: watson.acehacker.com
+  url: 'http://watson.acehacker.com'
+  favicon: 'http://watson.acehacker.com/img/favicon2.ico'
 keywords:
   - watson
   - ibm
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://watson.acehacker.com/'
 title: 'IBM Watson India Online Hackathon | Ace Hacker'
-datePublished: '2016-01-18T11:09:12.983Z'
-dateModified: '2016-01-18T11:08:56.333Z'
+datePublished: '2016-01-18T11:10:44.776Z'
+dateModified: '2016-01-18T11:10:36.335Z'
 sourcePath: _posts/2016-01-18-ibm-watson-india-online-hackathon-or-ace-hacker.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
