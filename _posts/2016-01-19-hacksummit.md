@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://hacksummit.org'
   name: hack.summit()
-  favicon: 'https://hacksummit.s3.amazonaws.com/img/favicon.ico'
   domain: hacksummit.org
+  url: 'https://hacksummit.org'
+  favicon: 'https://hacksummit.s3.amazonaws.com/img/favicon.ico'
 keywords:
   - hack
   - summit
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://hacksummit.org/'
 title: hack.summit()
-datePublished: '2016-01-19T16:02:40.775Z'
-dateModified: '2016-01-19T16:02:19.308Z'
+datePublished: '2016-01-19T16:24:20.941Z'
+dateModified: '2016-01-19T16:24:16.783Z'
 sourcePath: _posts/2016-01-19-hacksummit.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
