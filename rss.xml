@@ -4,7 +4,7 @@
         <description><![CDATA[StartUpYNoT - LeTz  gEt sTartEd]]></description>
         <link>http://startupynot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 11:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 11:34:01 GMT</lastBuildDate>
         <atom:link href="http://startupynot.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hack.summit()]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Fri, 15 Jan 2016 08:59:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Forget Google: Here Are the 9 Startups That Actually Run the Internet]]></title>
+            <description><![CDATA[<article><h1>Forget Google: Here Are the 9 Startups That Actually Run the Internet</h1><p>Sure, Amazon, Google, and Microsoft are tech titans, making billions by selling web hosting and other services to the biggest businesses in the world. But they can't be everywhere. And there are plenty of startups that help the web run smoothly, behind the scenes, in ways you don't even realize.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff83f4b493971a6165772ecca01b0a1624eb019f.jpg"></article>]]></description>
+            <link>http://www.inc.com/business-insider/companies-that-run-the-internet-besides-google.html</link>
+            <guid isPermaLink="false">3f60b9bb-5356-470a-b613-caa64295a286</guid>
+            <pubDate>Wed, 27 Jan 2016 11:10:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why Spotify Is Getting Into Video]]></title>
-            <description><![CDATA[<article><h1>Why Spotify Is Getting Into Video</h1><p>This week looks set to herald the launch of video content on Spotify's Android app with a video enabling update coming to the service's iOS app coming later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96770398caadf0267be2f9adfba83bf000b6a81.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why Spotify Is Getting Into Video</h1><p>This week looks set to herald the launch of video content on Spotify's Android app with a video enabling update coming to the service's iOS app coming later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b91b704ff906f0a0841e254f2c8085be4fed30f4.jpg"></article>]]></description>
             <link>https://www.linkedin.com/pulse/why-spotify-getting-video-tim-mulligan?trk=eml-b2_content_ecosystem_digest-hero-14-null&amp;midToken=AQGFLCGAjuilHA&amp;fromEmail=fromEmail&amp;ut=1VjZndnf5YLD41</link>
             <guid isPermaLink="false">eda26a7d-6cd2-496b-8382-4d129ab34380</guid>
             <pubDate>Wed, 27 Jan 2016 11:10:30 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://time.com/money/4166743/networking-tips-introverts/</link>
             <guid isPermaLink="false">e4108ff5-f08c-4c93-ba8d-1e0d59f861ba</guid>
             <pubDate>Wed, 13 Jan 2016 23:07:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 Things You Didn't Know You Could Negotiate]]></title>
-            <description><![CDATA[<article><h1>5 Things You Didn't Know You Could Negotiate</h1><p>More "You don't get what you don't ask for." Many of us have heard the phrase, but most of us never think to ask for a price break while shopping.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf4c66e8569aca18a683580e82d20b270fa77560.jpg"></article>]]></description>
-            <link>http://time.com/money/4175125/negotiate-price-groceries-electronics-interest-rates/?xid=frommoney_soc_socialflow_facebook_money</link>
-            <guid isPermaLink="false">f7c0de81-225b-4320-bfb0-852adbbdd400</guid>
-            <pubDate>Wed, 13 Jan 2016 23:01:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
