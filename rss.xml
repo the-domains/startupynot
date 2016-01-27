@@ -4,7 +4,7 @@
         <description><![CDATA[StartUpYNoT - LeTz  gEt sTartEd]]></description>
         <link>http://startupynot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 16:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 11:33:59 GMT</lastBuildDate>
         <atom:link href="http://startupynot.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[hack.summit()]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.forbes.com/sites/kathycaprino/2016/01/14/how-companies-like-uber-facebook-and-salesforce-engage-in-team-building-its-not-what-you-think/#2715e4857a0b6b824fef6157</link>
             <guid isPermaLink="false">64fd9f96-cf90-464f-bb33-9e32d83e479c</guid>
             <pubDate>Fri, 15 Jan 2016 08:59:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Spotify Is Getting Into Video]]></title>
+            <description><![CDATA[<article><h1>Why Spotify Is Getting Into Video</h1><p>This week looks set to herald the launch of video content on Spotify's Android app with a video enabling update coming to the service's iOS app coming later.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c96770398caadf0267be2f9adfba83bf000b6a81.jpg"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/why-spotify-getting-video-tim-mulligan?trk=eml-b2_content_ecosystem_digest-hero-14-null&amp;midToken=AQGFLCGAjuilHA&amp;fromEmail=fromEmail&amp;ut=1VjZndnf5YLD41</link>
+            <guid isPermaLink="false">eda26a7d-6cd2-496b-8382-4d129ab34380</guid>
+            <pubDate>Wed, 27 Jan 2016 11:10:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why You Shouldn't Panic About The Stock Market]]></title>
@@ -68,13 +75,6 @@
             <link>http://time.com/money/4175125/negotiate-price-groceries-electronics-interest-rates/?xid=frommoney_soc_socialflow_facebook_money</link>
             <guid isPermaLink="false">f7c0de81-225b-4320-bfb0-852adbbdd400</guid>
             <pubDate>Wed, 13 Jan 2016 23:01:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Entrepreneurs Can Ride the Internet of Things to Success]]></title>
-            <description><![CDATA[<article><h1>How Entrepreneurs Can Ride the Internet of Things to Success</h1><p>Today, more people live in cities than in rural areas. This is of course a change from the 1800s and even the early part of the 20th century, when more people lived in the country. There are no signs of a slow-down in urbanization; in fact it's only speeding up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3cd68008ab41cb8ecd2ac6862a4455118924e0f.jpg"></article>]]></description>
-            <link>http://www.inc.com/john-boitnott/how-entrepreneurs-can-ride-the-internet-of-things-to-success.html</link>
-            <guid isPermaLink="false">eace5df7-06fe-4fdd-919c-b5091cb4036c</guid>
-            <pubDate>Wed, 13 Jan 2016 22:49:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
