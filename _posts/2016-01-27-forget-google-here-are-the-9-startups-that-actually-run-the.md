@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.inc.com'
   name: Inc.com
-  favicon: 'http://www.inc.com/favicon.ico'
   domain: www.inc.com
+  url: 'http://www.inc.com'
+  favicon: 'http://www.inc.com/favicon.ico'
 keywords:
   - web
   - digitalocean
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.inc.com/business-insider/companies-that-run-the-internet-besides-google.html'
 title: 'Forget Google: Here Are the 9 Startups That Actually Run the Internet'
-datePublished: '2016-01-27T11:10:50.605Z'
-dateModified: '2016-01-25T22:04:30.299Z'
+datePublished: '2016-02-09T13:08:57.275Z'
+dateModified: '2016-02-09T13:08:52.460Z'
 sourcePath: _posts/2016-01-27-forget-google-here-are-the-9-startups-that-actually-run-the.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
